@@ -1,0 +1,10 @@
+# Facts
+A
+B
+
+# Horn's rules
+P -> Q
+L & M -> P
+B & L -> M
+A & P -> L
+A & B -> L

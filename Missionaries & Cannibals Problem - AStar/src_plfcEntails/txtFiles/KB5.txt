@@ -1,0 +1,10 @@
+# Facts
+cat
+mouse
+
+# Horn's rules
+cat -> tom
+mouse -> jerry
+tom & jerry -> play
+play -> laugh
+play & laugh -> friends

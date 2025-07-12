@@ -1,0 +1,10 @@
+# Facts
+Sunny
+Weekend
+
+# Horn's rules
+Sunny & Weekend -> GoToBeach
+Sunny & WorkingDay -> StayAtWork
+Weekend & NoPlans -> Relax
+WorkingDay & NotSunny -> StayIndoors
+GoToBeach & Hot -> TakeSunscreen

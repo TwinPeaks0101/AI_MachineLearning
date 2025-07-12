@@ -1,0 +1,11 @@
+# Facts
+A
+B
+
+# Horn's rules
+A & B -> P
+A & C -> Q
+B & D -> R
+C & E -> S
+F & H -> T
+P & B -> W

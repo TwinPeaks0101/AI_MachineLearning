@@ -1,0 +1,13 @@
+# Facts
+Sunny
+Weekend
+MyLuckyDay
+
+# Horn's rules
+Sunny -> Hot
+MyLuckyDay -> Monday
+WorkingDay -> FirstDayOfTheWeek
+Sunny & Weekend -> GoToBeach
+GoToBeach & Hot -> TakeSunscreen
+Hot & Monday -> WorkingDay
+WorkingDay & Monday -> FirstDayOfTheWeek
